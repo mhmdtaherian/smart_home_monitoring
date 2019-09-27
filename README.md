@@ -1,4 +1,4 @@
-# OSMonitoring
+# Smart Home Monitoring
 This simulator will send data related to a smart home. This home contains 1 living room, 3 bedrooms, invironmental information from back yard, smart device including fridge, kettle, washer, dryer, dish washer, coffee maker and a local computer.
 
 Data will be sent by default every 10 seconds but you can change the interval.
